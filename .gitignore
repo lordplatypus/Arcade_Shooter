@@ -1,0 +1,16 @@
+.vscode/
+.vs/
+Resources/
+bin/
+obj/
+Image/
+Properties/
+BGM/
+Map/
+SE/
+*.sln
+*.dll
+*.config
+*.csproj
+*.o
+*test
